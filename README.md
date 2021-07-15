@@ -4,3 +4,4 @@
 * _git status_ - show state of local repository
 * git log - List commit history
 * `git log --oneline` - breif commit history
+* `git add . ` - git add all files to be committed
