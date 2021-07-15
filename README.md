@@ -1,6 +1,6 @@
 ## Git CheatSheet
 
-breif reference of various git commands
+breif reference of various git commands. Also practice with branching
 
 * `git init` - intialize the git repository
 * _git status_ - show state of local repository
