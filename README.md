@@ -10,3 +10,4 @@ breif reference of various git commands. Also practice with branching
 * `git commit -m "msg"` - commit to remote repo with msg
 
 * `git config -l` - list git configuration files
+* `git diff sha` - shows difference b/w current commit and commit id `sha` 
