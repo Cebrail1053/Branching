@@ -6,3 +6,5 @@
 
 ### Work on the New Branch
 `git branch` - list new branches
+
+`git checkout newBranch` - merge with main branch?
