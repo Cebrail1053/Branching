@@ -15,3 +15,9 @@ breif reference of various git commands. Also practice with branching
 * `git commit -m "msg"` - commit to remote repo with msg
 
 * `git config -l` - list git configuration files
+
+### Remote Repos
+* `git remote add alias url` - add `alias` as name for remote repo `url` in
+project configuration
+* `git push alias aBranch` - push local commmits to `alias`'s  branch `aBranch`
+* `git pull alias aBranch` - pull local commmits to `alias`'s  branch `aBranch`
